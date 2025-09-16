@@ -1,1 +1,771 @@
-\x3c\x21\x44\x4f\x43\x54\x59\x50\x45\x20\x68\x74\x6d\x6c\x3e\x0a\x3c\x68\x74\x6d\x6c\x20\x6c\x61\x6e\x67\x3d\x22\x66\x72\x22\x3e\x0a\x3c\x68\x65\x61\x64\x3e\x0a\x20\x20\x20\x20\x3c\x6d\x65\x74\x61\x20\x63\x68\x61\x72\x73\x65\x74\x3d\x22\x55\x54\x46\x2d\x38\x22\x3e\x0a\x20\x20\x20\x20\x3c\x6d\x65\x74\x61\x20\x6e\x61\x6d\x65\x3d\x22\x76\x69\x65\x77\x70\x6f\x72\x74\x22\x20\x63\x6f\x6e\x74\x65\x6e\x74\x3d\x22\x77\x69\x64\x74\x68\x3d\x64\x65\x76\x69\x63\x65\x2d\x77\x69\x64\x74\x68\x2c\x20\x69\x6e\x69\x74\x69\x61\x6c\x2d\x73\x63\x61\x6c\x65\x3d\x31\x2e\x30\x22\x3e\x0a\x20\x20\x20\x20\x3c\x74\x69\x74\x6c\x65\x3e\x4d\x61\x6e\x69\x66\x65\x73\x74\x61\x74\x69\x6f\x6e\x20\x4c\x61\x62\x20\x2d\x20\x53\x79\x6d\x62\x6f\x6c\x65\x73\x20\x53\x61\x63\x72\xc3\x83\xc2\xa9\x73\x20\x26\x20\x46\x72\xc3\x83\xc2\xa9\x71\x75\x65\x6e\x63\x65\x73\x3c\x2f\x74\x69\x74\x6c\x65\x3e\x0a\x20\x20\x20\x20\x3c\x73\x74\x79\x6c\x65\x3e\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x2a\x20\x7b\x20\x6d\x61\x72\x67\x69\x6e\x3a\x20\x30\x3b\x20\x70\x61\x64\x64\x69\x6e\x67\x3a\x20\x30\x3b\x20\x62\x6f\x78\x2d\x73\x69\x7a\x69\x6e\x67\x3a\x20\x62\x6f\x72\x64\x65\x72\x2d\x62\x6f\x78\x3b\x20\x7d\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x62\x6f\x64\x79\x20\x7b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x66\x6f\x6e\x74\x2d\x66\x61\x6d\x69\x6c\x79\x3a\x20\x41\x72\x69\x61\x6c\x2c\x20\x73\x61\x6e\x73\x2d\x73\x65\x72\x69\x66\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x62\x61\x63\x6b\x67\x72\x6f\x75\x6e\x64\x3a\x20\x6c\x69\x6e\x65\x61\x72\x2d\x67\x72\x61\x64\x69\x65\x6e\x74\x28\x31\x33\x35\x64\x65\x67\x2c\x20\x23\x31\x61\x31\x61\x32\x65\x2c\x20\x23\x31\x36\x32\x31\x33\x65\x29\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x63\x6f\x6c\x6f\x72\x3a\x20\x77\x68\x69\x74\x65\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x6c\x69\x6e\x65\x2d\x68\x65\x69\x67\x68\x74\x3a\x20\x31\x2e\x36\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x7d\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x2e\x68\x65\x61\x64\x65\x72\x20\x7b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x62\x61\x63\x6b\x67\x72\x6f\x75\x6e\x64\x3a\x20\x72\x67\x62\x61\x28\x30\x2c\x20\x30\x2c\x20\x30\x2c\x20\x30\x2e\x39\x29\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x70\x61\x64\x64\x69\x6e\x67\x3a\x20\x31\x72\x65\x6d\x20\x32\x72\x65\x6d\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x70\x6f\x73\x69\x74\x69\x6f\x6e\x3a\x20\x66\x69\x78\x65\x64\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x74\x6f\x70\x3a\x20\x30\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x77\x69\x64\x74\x68\x3a\x20\x31\x30\x30\x25\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x7a\x2d\x69\x6e\x64\x65\x78\x3a\x20\x31\x30\x30\x30\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x64\x69\x73\x70\x6c\x61\x79\x3a\x20\x66\x6c\x65\x78\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x6a\x75\x73\x74\x69\x66\x79\x2d\x63\x6f\x6e\x74\x65\x6e\x74\x3a\x20\x73\x70\x61\x63\x65\x2d\x62\x65\x74\x77\x65\x65\x6e\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x61\x6c\x69\x67\x6e\x2d\x69\x74\x65\x6d\x73\x3a\x20\x63\x65\x6e\x74\x65\x72\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x7d\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x2e\x6c\x6f\x67\x6f\x20\x7b\x20\x63\x6f\x6c\x6f\x72\x3a\x20\x23\x66\x66\x64\x37\x30\x30\x3b\x20\x66\x6f\x6e\x74\x2d\x73\x69\x7a\x65\x3a\x20\x31\x2e\x35\x72\x65\x6d\x3b\x20\x66\x6f\x6e\x74\x2d\x77\x65\x69\x67\x68\x74\x3a\x20\x62\x6f\x6c\x64\x3b\x20\x7d\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x2e\x6e\x61\x76\x20\x7b\x20\x64\x69\x73\x70\x6c\x61\x79\x3a\x20\x66\x6c\x65\x78\x3b\x20\x67\x61\x70\x3a\x20\x31\x72\x65\x6d\x3b\x20\x66\x6c\x65\x78\x2d\x77\x72\x61\x70\x3a\x20\x77\x72\x61\x70\x3b\x20\x7d\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x2e\x6e\x61\x76\x20\x61\x20\x7b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x63\x6f\x6c\x6f\x72\x3a\x20\x23\x66\x66\x64\x37\x30\x30\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x74\x65\x78\x74\x2d\x64\x65\x63\x6f\x72\x61\x74\x69\x6f\x6e\x3a\x20\x6e\x6f\x6e\x65\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x70\x61\x64\x64\x69\x6e\x67\x3a\x20\x30\x2e\x35\x72\x65\x6d\x20\x31\x72\x65\x6d\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x62\x6f\x72\x64\x65\x72\x3a\x20\x31\x70\x78\x20\x73\x6f\x6c\x69\x64\x20\x23\x66\x66\x64\x37\x30\x30\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x62\x6f\x72\x64\x65\x72\x2d\x72\x61\x64\x69\x75\x73\x3a\x20\x32\x30\x70\x78\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x74\x72\x61\x6e\x73\x69\x74\x69\x6f\x6e\x3a\x20\x61\x6c\x6c\x20\x30\x2e\x33\x73\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x7d\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x2e\x6e\x61\x76\x20\x61\x3a\x68\x6f\x76\x65\x72\x20\x7b\x20\x62\x61\x63\x6b\x67\x72\x6f\x75\x6e\x64\x3a\x20\x23\x66\x66\x64\x37\x30\x30\x3b\x20\x63\x6f\x6c\x6f\x72\x3a\x20\x23\x31\x61\x31\x61\x32\x65\x3b\x20\x7d\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x2e\x73\x65\x63\x74\x69\x6f\x6e\x20\x7b\x20\x70\x61\x64\x64\x69\x6e\x67\x3a\x20\x36\x72\x65\x6d\x20\x32\x72\x65\x6d\x20\x34\x72\x65\x6d\x3b\x20\x6d\x61\x78\x2d\x77\x69\x64\x74\x68\x3a\x20\x31\x32\x30\x30\x70\x78\x3b\x20\x6d\x61\x72\x67\x69\x6e\x3a\x20\x30\x20\x61\x75\x74\x6f\x3b\x20\x7d\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x2e\x68\x65\x72\x6f\x20\x7b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x74\x65\x78\x74\x2d\x61\x6c\x69\x67\x6e\x3a\x20\x63\x65\x6e\x74\x65\x72\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x6d\x69\x6e\x2d\x68\x65\x69\x67\x68\x74\x3a\x20\x31\x30\x30\x76\x68\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x64\x69\x73\x70\x6c\x61\x79\x3a\x20\x66\x6c\x65\x78\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x61\x6c\x69\x67\x6e\x2d\x69\x74\x65\x6d\x73\x3a\x20\x63\x65\x6e\x74\x65\x72\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x6a\x75\x73\x74\x69\x66\x79\x2d\x63\x6f\x6e\x74\x65\x6e\x74\x3a\x20\x63\x65\x6e\x74\x65\x72\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x66\x6c\x65\x78\x2d\x64\x69\x72\x65\x63\x74\x69\x6f\x6e\x3a\x20\x63\x6f\x6c\x75\x6d\x6e\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x7d\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x2e\x68\x65\x72\x6f\x20\x68\x31\x20\x7b\x20\x66\x6f\x6e\x74\x2d\x73\x69\x7a\x65\x3a\x20\x33\x2e\x35\x72\x65\x6d\x3b\x20\x63\x6f\x6c\x6f\x72\x3a\x20\x23\x66\x66\x64\x37\x30\x30\x3b\x20\x6d\x61\x72\x67\x69\x6e\x2d\x62\x6f\x74\x74\x6f\x6d\x3a\x20\x31\x72\x65\x6d\x3b\x20\x7d\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x2e\x68\x65\x72\x6f\x20\x70\x20\x7b\x20\x66\x6f\x6e\x74\x2d\x73\x69\x7a\x65\x3a\x20\x31\x2e\x35\x72\x65\x6d\x3b\x20\x63\x6f\x6c\x6f\x72\x3a\x20\x23\x30\x30\x62\x66\x66\x66\x3b\x20\x6d\x61\x72\x67\x69\x6e\x2d\x62\x6f\x74\x74\x6f\x6d\x3a\x20\x32\x72\x65\x6d\x3b\x20\x66\x6f\x6e\x74\x2d\x73\x74\x79\x6c\x65\x3a\x20\x69\x74\x61\x6c\x69\x63\x3b\x20\x7d\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x2e\x63\x74\x61\x2d\x62\x75\x74\x74\x6f\x6e\x73\x20\x7b\x20\x64\x69\x73\x70\x6c\x61\x79\x3a\x20\x66\x6c\x65\x78\x3b\x20\x67\x61\x70\x3a\x20\x31\x72\x65\x6d\x3b\x20\x6a\x75\x73\x74\x69\x66\x79\x2d\x63\x6f\x6e\x74\x65\x6e\x74\x3a\x20\x63\x65\x6e\x74\x65\x72\x3b\x20\x66\x6c\x65\x78\x2d\x77\x72\x61\x70\x3a\x20\x77\x72\x61\x70\x3b\x20\x7d\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x2e\x62\x74\x6e\x20\x7b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x70\x61\x64\x64\x69\x6e\x67\x3a\x20\x31\x72\x65\x6d\x20\x32\x72\x65\x6d\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x62\x6f\x72\x64\x65\x72\x3a\x20\x6e\x6f\x6e\x65\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x62\x6f\x72\x64\x65\x72\x2d\x72\x61\x64\x69\x75\x73\x3a\x20\x32\x35\x70\x78\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x66\x6f\x6e\x74\x2d\x73\x69\x7a\x65\x3a\x20\x31\x2e\x31\x72\x65\x6d\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x66\x6f\x6e\x74\x2d\x77\x65\x69\x67\x68\x74\x3a\x20\x62\x6f\x6c\x64\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x63\x75\x72\x73\x6f\x72\x3a\x20\x70\x6f\x69\x6e\x74\x65\x72\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x74\x72\x61\x6e\x73\x69\x74\x69\x6f\x6e\x3a\x20\x61\x6c\x6c\x20\x30\x2e\x33\x73\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x74\x65\x78\x74\x2d\x64\x65\x63\x6f\x72\x61\x74\x69\x6f\x6e\x3a\x20\x6e\x6f\x6e\x65\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x64\x69\x73\x70\x6c\x61\x79\x3a\x20\x69\x6e\x6c\x69\x6e\x65\x2d\x62\x6c\x6f\x63\x6b\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x7d\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x2e\x62\x74\x6e\x2d\x70\x72\x69\x6d\x61\x72\x79\x20\x7b\x20\x62\x61\x63\x6b\x67\x72\x6f\x75\x6e\x64\x3a\x20\x6c\x69\x6e\x65\x61\x72\x2d\x67\x72\x61\x64\x69\x65\x6e\x74\x28\x34\x35\x64\x65\x67\x2c\x20\x23\x66\x66\x36\x62\x36\x62\x2c\x20\x23\x65\x65\x35\x61\x35\x32\x29\x3b\x20\x63\x6f\x6c\x6f\x72\x3a\x20\x77\x68\x69\x74\x65\x3b\x20\x7d\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x2e\x62\x74\x6e\x2d\x73\x65\x63\x6f\x6e\x64\x61\x72\x79\x20\x7b\x20\x62\x61\x63\x6b\x67\x72\x6f\x75\x6e\x64\x3a\x20\x74\x72\x61\x6e\x73\x70\x61\x72\x65\x6e\x74\x3b\x20\x62\x6f\x72\x64\x65\x72\x3a\x20\x32\x70\x78\x20\x73\x6f\x6c\x69\x64\x20\x23\x66\x66\x64\x37\x30\x30\x3b\x20\x63\x6f\x6c\x6f\x72\x3a\x20\x23\x66\x66\x64\x37\x30\x30\x3b\x20\x7d\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x2e\x62\x74\x6e\x3a\x68\x6f\x76\x65\x72\x20\x7b\x20\x74\x72\x61\x6e\x73\x66\x6f\x72\x6d\x3a\x20\x74\x72\x61\x6e\x73\x6c\x61\x74\x65\x59\x28\x2d\x32\x70\x78\x29\x3b\x20\x7d\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x2e\x73\x65\x63\x74\x69\x6f\x6e\x2d\x74\x69\x74\x6c\x65\x20\x7b\x20\x74\x65\x78\x74\x2d\x61\x6c\x69\x67\x6e\x3a\x20\x63\x65\x6e\x74\x65\x72\x3b\x20\x66\x6f\x6e\x74\x2d\x73\x69\x7a\x65\x3a\x20\x32\x2e\x35\x72\x65\x6d\x3b\x20\x63\x6f\x6c\x6f\x72\x3a\x20\x23\x66\x66\x64\x37\x30\x30\x3b\x20\x6d\x61\x72\x67\x69\x6e\x2d\x62\x6f\x74\x74\x6f\x6d\x3a\x20\x33\x72\x65\x6d\x3b\x20\x7d\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x2e\x67\x72\x69\x64\x20\x7b\x20\x64\x69\x73\x70\x6c\x61\x79\x3a\x20\x67\x72\x69\x64\x3b\x20\x67\x72\x69\x64\x2d\x74\x65\x6d\x70\x6c\x61\x74\x65\x2d\x63\x6f\x6c\x75\x6d\x6e\x73\x3a\x20\x72\x65\x70\x65\x61\x74\x28\x61\x75\x74\x6f\x2d\x66\x69\x74\x2c\x20\x6d\x69\x6e\x6d\x61\x78\x28\x33\x30\x30\x70\x78\x2c\x20\x31\x66\x72\x29\x29\x3b\x20\x67\x61\x70\x3a\x20\x32\x72\x65\x6d\x3b\x20\x6d\x61\x72\x67\x69\x6e\x2d\x74\x6f\x70\x3a\x20\x32\x72\x65\x6d\x3b\x20\x7d\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x2e\x63\x61\x72\x64\x20\x7b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x62\x61\x63\x6b\x67\x72\x6f\x75\x6e\x64\x3a\x20\x72\x67\x62\x61\x28\x32\x35\x35\x2c\x20\x32\x35\x35\x2c\x20\x32\x35\x35\x2c\x20\x30\x2e\x31\x29\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x70\x61\x64\x64\x69\x6e\x67\x3a\x20\x32\x72\x65\x6d\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x62\x6f\x72\x64\x65\x72\x2d\x72\x61\x64\x69\x75\x73\x3a\x20\x31\x35\x70\x78\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x62\x6f\x72\x64\x65\x72\x3a\x20\x31\x70\x78\x20\x73\x6f\x6c\x69\x64\x20\x72\x67\x62\x61\x28\x32\x35\x35\x2c\x20\x32\x35\x35\x2c\x20\x32\x35\x35\x2c\x20\x30\x2e\x32\x29\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x74\x72\x61\x6e\x73\x69\x74\x69\x6f\x6e\x3a\x20\x61\x6c\x6c\x20\x30\x2e\x33\x73\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x74\x65\x78\x74\x2d\x61\x6c\x69\x67\x6e\x3a\x20\x63\x65\x6e\x74\x65\x72\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x70\x6f\x73\x69\x74\x69\x6f\x6e\x3a\x20\x72\x65\x6c\x61\x74\x69\x76\x65\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x7d\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x2e\x63\x61\x72\x64\x3a\x68\x6f\x76\x65\x72\x20\x7b\x20\x74\x72\x61\x6e\x73\x66\x6f\x72\x6d\x3a\x20\x74\x72\x61\x6e\x73\x6c\x61\x74\x65\x59\x28\x2d\x35\x70\x78\x29\x3b\x20\x62\x6f\x78\x2d\x73\x68\x61\x64\x6f\x77\x3a\x20\x30\x20\x31\x30\x70\x78\x20\x33\x30\x70\x78\x20\x72\x67\x62\x61\x28\x30\x2c\x20\x30\x2c\x20\x30\x2c\x20\x30\x2e\x33\x29\x3b\x20\x7d\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x2e\x63\x61\x72\x64\x2e\x66\x72\x65\x65\x2d\x74\x72\x69\x61\x6c\x20\x7b\x20\x62\x6f\x72\x64\x65\x72\x2d\x63\x6f\x6c\x6f\x72\x3a\x20\x23\x30\x30\x66\x66\x38\x38\x3b\x20\x62\x61\x63\x6b\x67\x72\x6f\x75\x6e\x64\x3a\x20\x72\x67\x62\x61\x28\x30\x2c\x20\x32\x35\x35\x2c\x20\x31\x33\x36\x2c\x20\x30\x2e\x31\x29\x3b\x20\x7d\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x2e\x63\x61\x72\x64\x2e\x6c\x6f\x63\x6b\x65\x64\x3a\x3a\x61\x66\x74\x65\x72\x20\x7b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x63\x6f\x6e\x74\x65\x6e\x74\x3a\x20\x22\xc3\xb0\xc5\xb8\xe2\x80\x9d\xe2\x80\x99\x22\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x70\x6f\x73\x69\x74\x69\x6f\x6e\x3a\x20\x61\x62\x73\x6f\x6c\x75\x74\x65\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x74\x6f\x70\x3a\x20\x35\x30\x25\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x6c\x65\x66\x74\x3a\x20\x35\x30\x25\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x74\x72\x61\x6e\x73\x66\x6f\x72\x6d\x3a\x20\x74\x72\x61\x6e\x73\x6c\x61\x74\x65\x28\x2d\x35\x30\x25\x2c\x20\x2d\x35\x30\x25\x29\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x66\x6f\x6e\x74\x2d\x73\x69\x7a\x65\x3a\x20\x33\x72\x65\x6d\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x62\x61\x63\x6b\x67\x72\x6f\x75\x6e\x64\x3a\x20\x72\x67\x62\x61\x28\x30\x2c\x20\x30\x2c\x20\x30\x2c\x20\x30\x2e\x38\x29\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x77\x69\x64\x74\x68\x3a\x20\x31\x30\x30\x25\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x68\x65\x69\x67\x68\x74\x3a\x20\x31\x30\x30\x25\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x64\x69\x73\x70\x6c\x61\x79\x3a\x20\x66\x6c\x65\x78\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x61\x6c\x69\x67\x6e\x2d\x69\x74\x65\x6d\x73\x3a\x20\x63\x65\x6e\x74\x65\x72\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x6a\x75\x73\x74\x69\x66\x79\x2d\x63\x6f\x6e\x74\x65\x6e\x74\x3a\x20\x63\x65\x6e\x74\x65\x72\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x62\x6f\x72\x64\x65\x72\x2d\x72\x61\x64\x69\x75\x73\x3a\x20\x31\x35\x70\x78\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x7d\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x2e\x73\x79\x6d\x62\x6f\x6c\x2d\x69\x63\x6f\x6e\x20\x7b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x77\x69\x64\x74\x68\x3a\x20\x38\x30\x70\x78\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x68\x65\x69\x67\x68\x74\x3a\x20\x38\x30\x70\x78\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x62\x61\x63\x6b\x67\x72\x6f\x75\x6e\x64\x3a\x20\x6c\x69\x6e\x65\x61\x72\x2d\x67\x72\x61\x64\x69\x65\x6e\x74\x28\x34\x35\x64\x65\x67\x2c\x20\x23\x66\x66\x64\x37\x30\x30\x2c\x20\x23\x66\x66\x65\x64\x34\x65\x29\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x62\x6f\x72\x64\x65\x72\x2d\x72\x61\x64\x69\x75\x73\x3a\x20\x35\x30\x25\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x64\x69\x73\x70\x6c\x61\x79\x3a\x20\x66\x6c\x65\x78\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x61\x6c\x69\x67\x6e\x2d\x69\x74\x65\x6d\x73\x3a\x20\x63\x65\x6e\x74\x65\x72\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x6a\x75\x73\x74\x69\x66\x79\x2d\x63\x6f\x6e\x74\x65\x6e\x74\x3a\x20\x63\x65\x6e\x74\x65\x72\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x66\x6f\x6e\x74\x2d\x73\x69\x7a\x65\x3a\x20\x32\x72\x65\x6d\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x6d\x61\x72\x67\x69\x6e\x3a\x20\x30\x20\x61\x75\x74\x6f\x20\x31\x72\x65\x6d\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x63\x75\x72\x73\x6f\x72\x3a\x20\x70\x6f\x69\x6e\x74\x65\x72\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x74\x72\x61\x6e\x73\x69\x74\x69\x6f\x6e\x3a\x20\x61\x6c\x6c\x20\x30\x2e\x33\x73\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x7d\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x2e\x73\x79\x6d\x62\x6f\x6c\x2d\x69\x63\x6f\x6e\x3a\x68\x6f\x76\x65\x72\x20\x7b\x20\x74\x72\x61\x6e\x73\x66\x6f\x72\x6d\x3a\x20\x72\x6f\x74\x61\x74\x65\x28\x33\x36\x30\x64\x65\x67\x29\x20\x73\x63\x61\x6c\x65\x28\x31\x2e\x31\x29\x3b\x20\x7d\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x2e\x62\x61\x64\x67\x65\x20\x7b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x70\x6f\x73\x69\x74\x69\x6f\x6e\x3a\x20\x61\x62\x73\x6f\x6c\x75\x74\x65\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x74\x6f\x70\x3a\x20\x2d\x31\x30\x70\x78\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x72\x69\x67\x68\x74\x3a\x20\x2d\x31\x30\x70\x78\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x70\x61\x64\x64\x69\x6e\x67\x3a\x20\x30\x2e\x35\x72\x65\x6d\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x62\x6f\x72\x64\x65\x72\x2d\x72\x61\x64\x69\x75\x73\x3a\x20\x35\x30\x25\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x66\x6f\x6e\x74\x2d\x73\x69\x7a\x65\x3a\x20\x30\x2e\x37\x72\x65\x6d\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x66\x6f\x6e\x74\x2d\x77\x65\x69\x67\x68\x74\x3a\x20\x62\x6f\x6c\x64\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x63\x6f\x6c\x6f\x72\x3a\x20\x77\x68\x69\x74\x65\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x62\x61\x63\x6b\x67\x72\x6f\x75\x6e\x64\x3a\x20\x23\x30\x30\x66\x66\x38\x38\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x7d\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x2e\x75\x73\x61\x67\x65\x2d\x63\x6f\x75\x6e\x74\x65\x72\x20\x7b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x6d\x61\x72\x67\x69\x6e\x2d\x74\x6f\x70\x3a\x20\x31\x72\x65\x6d\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x70\x61\x64\x64\x69\x6e\x67\x3a\x20\x30\x2e\x38\x72\x65\x6d\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x62\x61\x63\x6b\x67\x72\x6f\x75\x6e\x64\x3a\x20\x72\x67\x62\x61\x28\x30\x2c\x20\x32\x35\x35\x2c\x20\x31\x33\x36\x2c\x20\x30\x2e\x32\x29\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x62\x6f\x72\x64\x65\x72\x2d\x72\x61\x64\x69\x75\x73\x3a\x20\x31\x30\x70\x78\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x63\x6f\x6c\x6f\x72\x3a\x20\x23\x30\x30\x66\x66\x38\x38\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x66\x6f\x6e\x74\x2d\x77\x65\x69\x67\x68\x74\x3a\x20\x62\x6f\x6c\x64\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x7d\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x2e\x66\x72\x65\x71\x75\x65\x6e\x63\x79\x2d\x62\x61\x64\x67\x65\x20\x7b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x62\x61\x63\x6b\x67\x72\x6f\x75\x6e\x64\x3a\x20\x72\x67\x62\x61\x28\x32\x35\x35\x2c\x20\x31\x30\x37\x2c\x20\x31\x30\x37\x2c\x20\x30\x2e\x32\x29\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x63\x6f\x6c\x6f\x72\x3a\x20\x23\x66\x66\x36\x62\x36\x62\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x70\x61\x64\x64\x69\x6e\x67\x3a\x20\x30\x2e\x33\x72\x65\x6d\x20\x30\x2e\x38\x72\x65\x6d\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x62\x6f\x72\x64\x65\x72\x2d\x72\x61\x64\x69\x75\x73\x3a\x20\x31\x35\x70\x78\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x66\x6f\x6e\x74\x2d\x73\x69\x7a\x65\x3a\x20\x30\x2e\x38\x72\x65\x6d\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x66\x6f\x6e\x74\x2d\x77\x65\x69\x67\x68\x74\x3a\x20\x62\x6f\x6c\x64\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x6d\x61\x72\x67\x69\x6e\x2d\x74\x6f\x70\x3a\x20\x30\x2e\x35\x72\x65\x6d\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x64\x69\x73\x70\x6c\x61\x79\x3a\x20\x69\x6e\x6c\x69\x6e\x65\x2d\x62\x6c\x6f\x63\x6b\x3b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x7d\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x2e\x66\x72\x65\x71\x75\x65\x6e\x63\x79\x2d\x67\x72\x69\x64\x20\x7b\x20\x64\x69\x73\x70\x6c\x61\x79\x3a\x20\x67\x72\x69\x64\x3b\x20\x67\x72\x69\x64\x2d\x74\x65\x6d\x70\x6c\x61\x74\x65\x2d\x63\x6f\x6c\x75\x6d\x6e\x73\x3a\x20\x72\x65\x70\x65\x61\x74\x28\x61\x75\x74\x6f\x2d\x66\x69\x74\x2c\x20\x6d\x69\x6e\x6d\x61\x78\x28\x32\x35\x30\x70\x78\x2c\x20\x31\x66\x72\x29\x29\x3b\x20\x67\x61\x70\x3a\x20\x31\x2e\x35\x72\x65\x6d\x3b\x20\x6d\x61\x72\x67\x69\x6e\x3a\x20\x32\x72\x65\x6d\x20\x30\x3b\x20\x7d\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x2e\x66\x72\x65\x71\x75\x65\x6e\x63\x79\x2d\x63\x61\x72\x64\x20\x7b\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x62\x61\x63\x6b\x67\x72\x6f\x75\x6e\x64\x3a\x20\x72\x67\x62\x61\x28\x32\x35\x35\x2c\x20\x32\x35\x35\x2c\x20\x32\x35\x35\x2c
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manifestation Lab - Symboles Sacrés & Fréquences</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e, #16213e);
+            color: white;
+            line-height: 1.6;
+        }
+        .header {
+            background: rgba(0, 0, 0, 0.9);
+            padding: 1rem 2rem;
+            position: fixed;
+            top: 0;
+            width: 100%;
+            z-index: 1000;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .logo { color: #ffd700; font-size: 1.5rem; font-weight: bold; }
+        .nav { display: flex; gap: 1rem; flex-wrap: wrap; }
+        .nav a {
+            color: #ffd700;
+            text-decoration: none;
+            padding: 0.5rem 1rem;
+            border: 1px solid #ffd700;
+            border-radius: 20px;
+            transition: all 0.3s;
+        }
+        .nav a:hover { background: #ffd700; color: #1a1a2e; }
+        .section { padding: 6rem 2rem 4rem; max-width: 1200px; margin: 0 auto; }
+        .hero {
+            text-align: center;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+        }
+        .hero h1 { font-size: 3.5rem; color: #ffd700; margin-bottom: 1rem; }
+        .hero p { font-size: 1.5rem; color: #00bfff; margin-bottom: 2rem; font-style: italic; }
+        .cta-buttons { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }
+        .btn {
+            padding: 1rem 2rem;
+            border: none;
+            border-radius: 25px;
+            font-size: 1.1rem;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s;
+            text-decoration: none;
+            display: inline-block;
+        }
+        .btn-primary { background: linear-gradient(45deg, #ff6b6b, #ee5a52); color: white; }
+        .btn-secondary { background: transparent; border: 2px solid #ffd700; color: #ffd700; }
+        .btn:hover { transform: translateY(-2px); }
+        .section-title { text-align: center; font-size: 2.5rem; color: #ffd700; margin-bottom: 3rem; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin-top: 2rem; }
+        .card {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 2rem;
+            border-radius: 15px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            transition: all 0.3s;
+            text-align: center;
+            position: relative;
+        }
+        .card:hover { transform: translateY(-5px); box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3); }
+        .card.free-trial { border-color: #00ff88; background: rgba(0, 255, 136, 0.1); }
+        .card.locked::after {
+            content: "🔒";
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-size: 3rem;
+            background: rgba(0, 0, 0, 0.8);
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 15px;
+        }
+        .symbol-icon {
+            width: 80px;
+            height: 80px;
+            background: linear-gradient(45deg, #ffd700, #ffed4e);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2rem;
+            margin: 0 auto 1rem;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        .symbol-icon:hover { transform: rotate(360deg) scale(1.1); }
+        .badge {
+            position: absolute;
+            top: -10px;
+            right: -10px;
+            padding: 0.5rem;
+            border-radius: 50%;
+            font-size: 0.7rem;
+            font-weight: bold;
+            color: white;
+            background: #00ff88;
+        }
+        .usage-counter {
+            margin-top: 1rem;
+            padding: 0.8rem;
+            background: rgba(0, 255, 136, 0.2);
+            border-radius: 10px;
+            color: #00ff88;
+            font-weight: bold;
+        }
+        .frequency-badge {
+            background: rgba(255, 107, 107, 0.2);
+            color: #ff6b6b;
+            padding: 0.3rem 0.8rem;
+            border-radius: 15px;
+            font-size: 0.8rem;
+            font-weight: bold;
+            margin-top: 0.5rem;
+            display: inline-block;
+        }
+        .frequency-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin: 2rem 0; }
+        .frequency-card {
+            background: rgba(255, 255, 255, 0.08);
+            padding: 1.5rem;
+            border-radius: 12px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            text-align: center;
+            transition: all 0.3s;
+            cursor: pointer;
+        }
+        .frequency-card:hover { transform: translateY(-3px); box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3); }
+        .frequency-card.playing {
+            border-color: #ff6b6b;
+            background: rgba(255, 107, 107, 0.2);
+            animation: pulse 2s infinite;
+        }
+        @keyframes pulse { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.02); } }
+        .frequency-number { font-size: 2rem; font-weight: bold; color: #ff6b6b; margin-bottom: 0.5rem; }
+        .modal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.8); z-index: 2000; }
+        .modal.show { display: flex; align-items: center; justify-content: center; }
+        .modal-content {
+            background: #1a1a2e;
+            padding: 2rem;
+            border-radius: 15px;
+            max-width: 400px;
+            width: 90%;
+            border: 2px solid #ffd700;
+            position: relative;
+        }
+        .form-input { width: 100%; padding: 0.8rem; margin: 0.5rem 0; border: 1px solid #444; border-radius: 5px; background: #333; color: white; }
+        .close-btn { position: absolute; top: 1rem; right: 1rem; background: none; border: none; color: white; font-size: 1.5rem; cursor: pointer; }
+        .meditation-view {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: radial-gradient(circle, rgba(0,0,0,0.9), rgba(26,26,46,0.95));
+            z-index: 3000;
+            display: none;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+        }
+        .meditation-view.show { display: flex; }
+        .meditation-symbol {
+            width: 150px;
+            height: 150px;
+            background: linear-gradient(45deg, #ffd700, #ffed4e);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 4rem;
+            margin-bottom: 2rem;
+            animation: spin 3s linear infinite;
+        }
+        @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+        .timer { font-size: 2rem; color: #ffd700; margin-bottom: 1rem; }
+        .audio-controls { margin: 1rem 0; display: flex; gap: 1rem; justify-content: center; align-items: center; flex-wrap: wrap; }
+        .audio-btn {
+            background: rgba(255, 215, 0, 0.2);
+            border: 1px solid #ffd700;
+            color: #ffd700;
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        .audio-btn:hover { background: #ffd700; color: #1a1a2e; }
+        .status {
+            position: fixed;
+            top: 100px;
+            right: 20px;
+            background: rgba(0, 255, 136, 0.9);
+            color: #1a1a2e;
+            padding: 1rem;
+            border-radius: 5px;
+            display: none;
+            z-index: 1500;
+            font-weight: bold;
+        }
+        @media (max-width: 768px) {
+            .hero h1 { font-size: 2.5rem; }
+            .header { flex-direction: column; padding: 1rem; text-align: center; }
+            .nav { margin-top: 1rem; }
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <div class="logo">Manifestation Lab</div>
+        <nav class="nav">
+            <a href="#symbols">Symboles</a>
+            <a href="#meditations">Méditations</a>
+            <a href="#bonus">Bonus</a>
+            <a href="#science">Science</a>
+            <a href="#pricing">Offres</a>
+            <a href="#" onclick="showOwnerModal()">🔑 Propriétaire</a>
+        </nav>
+    </header>
+
+    <div id="ownerModal" class="modal">
+        <div class="modal-content">
+            <button class="close-btn" onclick="closeOwnerModal()">&times;</button>
+            <h3 style="color: #ffd700; text-align: center; margin-bottom: 1rem;">🔑 Accès Propriétaire</h3>
+            <p style="text-align: center; color: #ccc; margin-bottom: 2rem;">Entrez votre code :</p>
+            <input type="password" id="ownerCode" placeholder="Code propriétaire" class="form-input">
+            <button onclick="checkOwnerAccess()" class="btn btn-primary" style="width: 100%; margin-top: 1rem;">Valider</button>
+            <div style="margin-top: 1rem; padding: 1rem; background: rgba(0,191,255,0.1); border-radius: 8px; font-size: 0.8rem; color: #00bfff;">
+                💡 <strong>Codes :</strong> MANIFESTLAB2024, ADMIN123, OWNER2024
+            </div>
+        </div>
+    </div>
+
+    <section class="hero section">
+        <h1>Transformez Votre Vie</h1>
+        <p>"Au-delà de l'apprentissage, l'expérience"</p>
+        <div class="cta-buttons">
+            <a href="#symbols" class="btn btn-primary">Essai Gratuit</a>
+            <a href="#pricing" class="btn btn-secondary">Voir les Offres</a>
+        </div>
+    </section>
+
+    <section id="symbols" class="section">
+        <h2 class="section-title">Symboles Sacrés + Fréquences</h2>
+        <div class="grid">
+            <div class="card free-trial">
+                <div class="badge">GRATUIT</div>
+                <div class="symbol-icon" onclick="useSymbol('fleur-vie', 528, '🌸', 'Fleur de Vie')">🌸</div>
+                <h3 style="color: #ffd700;">Fleur de Vie</h3>
+                <p style="color: #00bfff; font-weight: bold;">Harmonie + 528 Hz</p>
+                <div class="frequency-badge">🎵 Fréquence de l'Amour</div>
+                <p>Géométrie sacrée parfaite avec la fréquence de l'amour.</p>
+                <div class="usage-counter" id="counter1">✨ <span id="uses1">3</span> utilisations gratuites</div>
+            </div>
+            <div class="card locked" data-type="sri-yantra" data-freq="432" data-icon="🔺" data-title="Sri Yantra">
+                <div class="symbol-icon">🔺</div>
+                <h3 style="color: #ffd700;">Sri Yantra</h3>
+                <p style="color: #00bfff; font-weight: bold;">Manifestation + 432 Hz</p>
+                <div class="frequency-badge">🎵 Harmonie Naturelle</div>
+                <p>Symbole hindou de manifestation et d'abondance.</p>
+            </div>
+            <div class="card locked" data-type="oeil-horus" data-freq="741" data-icon="👁" data-title="Œil d'Horus">
+                <div class="symbol-icon">👁</div>
+                <h3 style="color: #ffd700;">Œil d'Horus</h3>
+                <p style="color: #00bfff; font-weight: bold;">Protection + 741 Hz</p>
+                <div class="frequency-badge">🎵 Expression & Créativité</div>
+                <p>Symbole égyptien de protection et clairvoyance.</p>
+            </div>
+            <div class="card locked" data-type="merkaba" data-freq="963" data-icon="⭐" data-title="Merkaba">
+                <div class="symbol-icon">⭐</div>
+                <h3 style="color: #ffd700;">Merkaba</h3>
+                <p style="color: #00bfff; font-weight: bold;">Élévation + 963 Hz</p>
+                <div class="frequency-badge">🎵 Connexion Divine</div>
+                <p>Véhicule de lumière pour l'ascension spirituelle.</p>
+            </div>
+            <div class="card locked" data-type="om" data-freq="396" data-icon="🕉️" data-title="Om Sacré">
+                <div class="symbol-icon">🕉️</div>
+                <h3 style="color: #ffd700;">Om Sacré</h3>
+                <p style="color: #00bfff; font-weight: bold;">Vibration + 396 Hz</p>
+                <div class="frequency-badge">🎵 Libération des Peurs</div>
+                <p>Symbole universel de l'unité cosmique.</p>
+            </div>
+            <div class="card locked" data-type="sceau" data-freq="852" data-icon="🔯" data-title="Sceau de Salomon">
+                <div class="symbol-icon">🔯</div>
+                <h3 style="color: #ffd700;">Sceau de Salomon</h3>
+                <p style="color: #00bfff; font-weight: bold;">Équilibre + 852 Hz</p>
+                <div class="frequency-badge">🎵 Éveil Spirituel</div>
+                <p>Hexagramme sacré d'équilibre et protection.</p>
+            </div>
+            <div class="card locked" data-type="spirale" data-freq="528" data-icon="🌀" data-title="Spirale Dorée">
+                <div class="symbol-icon">🌀</div>
+                <h3 style="color: #ffd700;">Spirale Dorée</h3>
+                <p style="color: #00bfff; font-weight: bold;">Croissance + 528 Hz</p>
+                <div class="frequency-badge">🎵 Régénération</div>
+                <p>Ratio phi pour l'expansion harmonieuse.</p>
+            </div>
+            <div class="card locked" data-type="triskel" data-freq="741" data-icon="🔥" data-title="Triskel Celtique">
+                <div class="symbol-icon">🔥</div>
+                <h3 style="color: #ffd700;">Triskel Celtique</h3>
+                <p style="color: #00bfff; font-weight: bold;">Transformation + 741 Hz</p>
+                <div class="frequency-badge">🎵 Purification</div>
+                <p>Triple spirale de renaissance et évolution.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="meditations" class="section">
+        <h2 class="section-title">Méditations Guidées</h2>
+        <div class="grid">
+            <div class="card free-trial">
+                <div class="badge">GRATUIT</div>
+                <div class="symbol-icon" onclick="useMeditation('stress', 432, '◐', 'Gestion du Stress')" style="background: linear-gradient(45deg, #00bfff, #0099cc);">◐</div>
+                <h3 style="color: #ffd700;">Gestion du Stress</h3>
+                <p style="color: #00bfff; font-weight: bold;">Apaisement + 432 Hz</p>
+                <div class="frequency-badge">🎵 Harmonie Naturelle</div>
+                <p>Technique de respiration pour l'apaisement immédiat.</p>
+                <div class="usage-counter" id="counter2">✨ <span id="uses2">1</span> utilisation gratuite</div>
+            </div>
+            <div class="card locked" data-type="boost" data-freq="0" data-icon="⚡" data-title="Boost Énergie">
+                <div class="symbol-icon" style="background: linear-gradient(45deg, #00ff88, #00cc6a);">⚡</div>
+                <h3 style="color: #ffd700;">Boost Énergie</h3>
+                <p style="color: #00bfff; font-weight: bold;">Vitalité + Respiration Wim Hof</p>
+                <div class="frequency-badge">🎵 Multi-Fréquences</div>
+                <p>Technique de respiration pour boost d'énergie.</p>
+            </div>
+            <div class="card locked" data-type="sommeil" data-freq="2" data-icon="🌙" data-title="Sommeil Profond">
+                <div class="symbol-icon" style="background: linear-gradient(45deg, #9370db, #7b68ee);">🌙</div>
+                <h3 style="color: #ffd700;">Sommeil Profond</h3>
+                <p style="color: #00bfff; font-weight: bold;">Repos + Ondes Delta</p>
+                <div class="frequency-badge">🎵 Fréquences Delta</div>
+                <p>Méditation pour un sommeil réparateur.</p>
+            </div>
+            <div class="card locked" data-type="coeur" data-freq="528" data-icon="❤️" data-title="Ouverture du Cœur">
+                <div class="symbol-icon" style="background: linear-gradient(45deg, #ff6b6b, #ff8787);">❤️</div>
+                <h3 style="color: #ffd700;">Ouverture du Cœur</h3>
+                <p style="color: #00bfff; font-weight: bold;">Amour + 528 Hz</p>
+                <div class="frequency-badge">🎵 Fréquence de l'Amour</div>
+                <p>Libération émotionnelle et ouverture du chakra cœur.</p>
+            </div>
+            <div class="card locked" data-type="focus" data-freq="40" data-icon="🧠" data-title="Focus Mental">
+                <div class="symbol-icon">🧠</div>
+                <h3 style="color: #ffd700;">Focus Mental</h3>
+                <p style="color: #00bfff; font-weight: bold;">Concentration + Ondes Gamma</p>
+                <div class="frequency-badge">🎵 Gamma 40Hz</div>
+                <p>Amélioration de la concentration et clarté mentale.</p>
+            </div>
+            <div class="card locked" data-type="lacher-prise" data-freq="396" data-icon="🌊" data-title="Lâcher-Prise">
+                <div class="symbol-icon" style="background: linear-gradient(45deg, #00bfff, #0099cc);">🌊</div>
+                <h3 style="color: #ffd700;">Lâcher-Prise</h3>
+                <p style="color: #00bfff; font-weight: bold;">Détachement + 396 Hz</p>
+                <div class="frequency-badge">🎵 Libération Émotionnelle</div>
+                <p>Méditation pour libérer les attachements.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="bonus" class="section">
+        <h2 class="section-title">Bonus Gratuits</h2>
+        <div class="grid">
+            <div class="card free-trial">
+                <div class="badge">GRATUIT</div>
+                <div class="symbol-icon" onclick="downloadGuide()" style="background: linear-gradient(45deg, #00ff88, #00cc6a);">🎧</div>
+                <h3 style="color: #ffd700;">Audio-Guide Méditation</h3>
+                <p style="color: #00bfff; font-weight: bold;">Session Guidée 10 min</p>
+                <p>Méditation complète avec instructions vocales.</p>
+                <button class="btn btn-secondary" style="width: 100%; margin-top: 1rem;" onclick="downloadGuide()">📥 Télécharger</button>
+            </div>
+            <div class="card free-trial">
+                <div class="badge">GRATUIT</div>
+                <div class="symbol-icon" onclick="downloadPoster()" style="background: linear-gradient(45deg, #ff6b6b, #ff4757);">🖼️</div>
+                <h3 style="color: #ffd700;">Poster Symboles Sacrés</h3>
+                <p style="color: #00bfff; font-weight: bold;">8 Symboles HD Format A4</p>
+                <p>Collection complète des symboles avec explications.</p>
+                <button class="btn btn-secondary" style="width: 100%; margin-top: 1rem;" onclick="downloadPoster()">📥 Télécharger</button>
+            </div>
+            <div class="card free-trial">
+                <div class="badge">GRATUIT</div>
+                <div class="symbol-icon" onclick="downloadJournal()" style="background: linear-gradient(45deg, #9b59b6, #8e44ad);">📖</div>
+                <h3 style="color: #ffd700;">Journal de Manifestation</h3>
+                <p style="color: #00bfff; font-weight: bold;">30 Pages d'Exercices</p>
+                <p>Journal structuré avec techniques de visualisation.</p>
+                <button class="btn btn-secondary" style="width: 100%; margin-top: 1rem;" onclick="downloadJournal()">📥 Télécharger</button>
+            </div>
+        </div>
+    </section>
+
+    <section id="science" class="section">
+        <h2 class="section-title">Pourquoi Cette Approche Fonctionne ?</h2>
+        <p style="text-align: center; font-size: 1.2rem; color: #00bfff; margin-bottom: 3rem; font-style: italic;">
+            *Une synthèse entre recherches avant-gardistes et traditions millénaires*
+        </p>
+        <div class="grid">
+            <div class="card">
+                <div style="font-size: 3rem; margin-bottom: 1rem;">🔬</div>
+                <h3 style="color: #ffd700;">Communication Quantique</h3>
+                <p>Les recherches en physique quantique suggèrent que la conscience pourrait influencer la matière à distance.</p>
+            </div>
+            <div class="card">
+                <div style="font-size: 3rem; margin-bottom: 1rem;">⚡</div>
+                <h3 style="color: #ffd700;">Symboles Énergétiques</h3>
+                <p>La géométrie sacrée canalise des champs énergétiques subtils, créant des résonances mesurables.</p>
+            </div>
+            <div class="card">
+                <div style="font-size: 3rem; margin-bottom: 1rem;">🌍</div>
+                <h3 style="color: #ffd700;">Réseaux Universels</h3>
+                <p>Notre réalité est structurée par des réseaux d'énergie. Les symboles agissent comme des "clés".</p>
+            </div>
+            <div class="card">
+                <div style="font-size: 3rem; margin-bottom: 1rem;">🎵</div>
+                <h3 style="color: #ffd700;">Fréquences Thérapeutiques</h3>
+                <p>Les fréquences spécifiques (396-963 Hz) sont utilisées depuis des millénaires pour le bien-être.</p>
+            </div>
+            <div class="card">
+                <div style="font-size: 3rem; margin-bottom: 1rem;">🧠</div>
+                <h3 style="color: #ffd700;">Neurosciences Appliquées</h3>
+                <p>Les techniques modifient l'activité cérébrale, favorisant relaxation et équilibre émotionnel.</p>
+            </div>
+        </div>
+
+        <div style="background: rgba(0, 0, 0, 0.3); padding: 2rem; border-radius: 20px; border: 2px solid rgba(255, 215, 0, 0.3); margin-top: 3rem;">
+            <h3 style="color: #ffd700; text-align: center; margin-bottom: 2rem;">Fréquences Solfège & Leurs Bienfaits</h3>
+            <div class="frequency-grid">
+                <div class="frequency-card" onclick="playFrequency(396)">
+                    <div class="frequency-number">396 Hz</div>
+                    <h4 style="color: #ffd700;">Libération des Peurs</h4>
+                    <p>Transforme la culpabilité en joie, libère des énergies bloquées.</p>
+                    <div class="frequency-badge">🎵 Cliquez pour écouter</div>
+                </div>
+                <div class="frequency-card" onclick="playFrequency(432)" style="border-color: #00bfff; background: rgba(0, 191, 255, 0.1);">
+                    <div class="frequency-number">432 Hz</div>
+                    <h4 style="color: #ffd700;">Harmonie Naturelle</h4>
+                    <p>Fréquence de la nature, apaise le système nerveux.</p>
+                    <div class="frequency-badge">🎵 Cliquez pour écouter</div>
+                </div>
+                <div class="frequency-card" onclick="playFrequency(528)" style="border-color: #00bfff; background: rgba(0, 191, 255, 0.1);">
+                    <div class="frequency-number">528 Hz</div>
+                    <h4 style="color: #ffd700;">Fréquence de l'Amour</h4>
+                    <p>Répare l'ADN et ouvre le cœur à l'amour inconditionnel.</p>
+                    <div class="frequency-badge">🎵 Cliquez pour écouter</div>
+                </div>
+                <div class="frequency-card" onclick="playFrequency(741)">
+                    <div class="frequency-number">741 Hz</div>
+                    <h4 style="color: #ffd700;">Expression & Créativité</h4>
+                    <p>Stimule l'expression personnelle et résolution de problèmes.</p>
+                    <div class="frequency-badge">🎵 Cliquez pour écouter</div>
+                </div>
+                <div class="frequency-card" onclick="playFrequency(852)">
+                    <div class="frequency-number">852 Hz</div>
+                    <h4 style="color: #ffd700;">Éveil Spirituel</h4>
+                    <p>Développe l'intuition et renforce la connexion spirituelle.</p>
+                    <div class="frequency-badge">🎵 Cliquez pour écouter</div>
+                </div>
+                <div class="frequency-card" onclick="playFrequency(963)">
+                    <div class="frequency-number">963 Hz</div>
+                    <h4 style="color: #ffd700;">Connexion Divine</h4>
+                    <p>Active la glande pinéale et facilite l'éveil spirituel.</p>
+                    <div class="frequency-badge">🎵 Cliquez pour écouter</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="pricing" class="section">
+        <h2 class="section-title">Accès Complet</h2>
+        <div class="grid">
+            <div class="card">
+                <h3 style="color: #ffd700;">Mensuel</h3>
+                <div style="font-size: 3rem; color: #ff6b6b; font-weight: bold;">14,50€</div>
+                <p style="color: #ff6b6b;">-50% Premier Mois</p>
+                <ul style="list-style: none; margin: 1.5rem 0;">
+                    <li style="padding: 0.5rem 0;">✓ 8 Symboles sacrés</li>
+                    <li style="padding: 0.5rem 0;">✓ 6 Méditations guidées</li>
+                    <li style="padding: 0.5rem 0;">✓ Fréquences thérapeutiques</li>
+                </ul>
+                <button class="btn btn-primary" style="width: 100%;">Commencer</button>
+            </div>
+            <div class="card" style="border-color: #ff6b6b; background: rgba(255, 107, 107, 0.1);">
+                <h3 style="color: #ff6b6b;">Pack 2 Mois</h3>
+                <div style="font-size: 3rem; color: #ff6b6b; font-weight: bold;">39€</div>
+                <p style="color: #00ff88;">Économisez 19€</p>
+                <ul style="list-style: none; margin: 1.5rem 0;">
+                    <li style="padding: 0.5rem 0;">✓ Accès complet 2 mois</li>
+                    <li style="padding: 0.5rem 0;">✓ Tous les symboles</li>
+                    <li style="padding: 0.5rem 0;">✓ Toutes les méditations</li>
+                    <li style="padding: 0.5rem 0;">✓ Support prioritaire</li>
+                </ul>
+                <button class="btn btn-primary" style="width: 100%;">Pack 2 Mois</button>
+            </div>
+            <div class="card">
+                <h3 style="color: #00ff88;">Trimestriel</h3>
+                <div style="font-size: 3rem; color: #ff6b6b; font-weight: bold;">69€</div>
+                <p style="color: #ffd700;">Meilleure Valeur</p>
+                <ul style="list-style: none; margin: 1.5rem 0;">
+                    <li style="padding: 0.5rem 0;">✓ 3 mois d'accès</li>
+                    <li style="padding: 0.5rem 0;">✓ Contenu exclusif</li>
+                    <li style="padding: 0.5rem 0;">✓ Sessions de groupe</li>
+                </ul>
+                <button class="btn btn-primary" style="width: 100%;">3 Mois</button>
+            </div>
+        </div>
+    </section>
+
+    <div id="meditationView" class="meditation-view">
+        <button class="close-btn" onclick="closeMeditation()">&times;</button>
+        <div class="meditation-symbol" id="meditationSymbol">🌸</div>
+        <div class="timer" id="timer">3:00</div>
+        <div class="audio-controls">
+            <button class="audio-btn" onclick="toggleAudio()">▶️ Jouer</button>
+            <button class="audio-btn" onclick="stopAudio()">⏹️ Arrêter</button>
+        </div>
+        <div>
+            <h2 style="color: #ffd700; margin-bottom: 1rem;" id="sessionTitle">Session de Méditation</h2>
+            <p id="sessionDesc">Concentrez-vous sur votre respiration.</p>
+        </div>
+    </div>
+
+    <div id="status" class="status"></div>
+
+    <script>
+        let uses1 = 3;
+        let uses2 = 1;
+        let isOwner = false;
+        let timer = null;
+        let audioContext = null;
+        let oscillator = null;
+        let currentFrequency = null;
+
+        // Modal propriétaire
+        function showOwnerModal() {
+            document.getElementById('ownerModal').classList.add('show');
+        }
+
+        function closeOwnerModal() {
+            document.getElementById('ownerModal').classList.remove('show');
+        }
+
+        function checkOwnerAccess() {
+            const code = document.getElementById('ownerCode').value;
+            if (code === 'MANIFESTLAB2024' || code === 'ADMIN123' || code === 'OWNER2024') {
+                isOwner = true;
+                closeOwnerModal();
+                showStatus('🔑 Accès propriétaire activé ! Tous les contenus débloqués');
+                
+                // Débloquer tout
+                document.querySelectorAll('.locked').forEach(card => {
+                    card.classList.remove('locked');
+                    const icon = card.querySelector('.symbol-icon');
+                    if (icon) {
+                        const type = card.dataset.type;
+                        const freq = card.dataset.freq;
+                        const iconText = card.dataset.icon;
+                        const title = card.dataset.title;
+                        
+                        if (card.closest('#symbols')) {
+                            icon.onclick = () => useSymbol(type, freq, iconText, title);
+                        } else if (card.closest('#meditations')) {
+                            icon.onclick = () => useMeditation(type, freq, iconText, title);
+                        }
+                    }
+                });
+                
+                // Marquer visuellement
+                document.querySelector('.header').style.background = 'linear-gradient(45deg, #ffd700, #ffed4e)';
+                document.querySelector('.logo').innerHTML = '👑 Manifestation Lab - PROPRIÉTAIRE';
+                document.querySelector('.logo').style.color = '#1a1a2e';
+            } else {
+                showStatus('❌ Code incorrect');
+            }
+        }
+
+        function useSymbol(type, frequency, icon, title) {
+            if (isOwner || type === 'fleur-vie') {
+                if (type === 'fleur-vie' && !isOwner && uses1 > 0) {
+                    uses1--;
+                    document.getElementById('uses1').textContent = uses1;
+                    if (uses1 === 0) {
+                        document.getElementById('counter1').innerHTML = '🔒 <a href="#pricing" style="color: #ff6b6b;">Voir offres</a>';
+                    }
+                } else if (type === 'fleur-vie' && !isOwner && uses1 === 0) {
+                    showStatus('Utilisations épuisées - Voir nos offres');
+                    document.getElementById('pricing').scrollIntoView({behavior: 'smooth'});
+                    return;
+                }
+                startSession(icon || '🌸', title || 'Symbole Sacré', `Méditation avec ${title} - Fréquence ${frequency} Hz`, frequency);
+            } else {
+                showStatus('Contenu premium - Voir nos offres');
+                document.getElementById('pricing').scrollIntoView({behavior: 'smooth'});
+            }
+        }
+
+        function useMeditation(type, frequency, icon, title) {
+            if (isOwner || type === 'stress') {
+                if (type === 'stress' && !isOwner && uses2 > 0) {
+                    uses2--;
+                    document.getElementById('uses2').textContent = uses2;
+                    if (uses2 === 0) {
+                        document.getElementById('counter2').innerHTML = '🔒 <a href="#pricing" style="color: #ff6b6b;">Voir offres</a>';
+                    }
+                } else if (type === 'stress' && !isOwner && uses2 === 0) {
+                    showStatus('Utilisations épuisées - Voir nos offres');
+                    document.getElementById('pricing').scrollIntoView({behavior: 'smooth'});
+                    return;
+                }
+                startSession(icon || '◐', title || 'Méditation Guidée', `Session ${title} avec techniques spécialisées`, frequency);
+            } else {
+                showStatus('Méditation premium - Voir nos offres');
+                document.getElementById('pricing').scrollIntoView({behavior: 'smooth'});
+            }
+        }
+
+        function startSession(symbol, title, desc, frequency) {
+            document.getElementById('meditationSymbol').textContent = symbol;
+            document.getElementById('sessionTitle').textContent = title;
+            document.getElementById('sessionDesc').textContent = desc;
+            document.getElementById('meditationView').classList.add('show');
+            
+            currentFrequency = frequency;
+            let timeLeft = 180;
+            
+            timer = setInterval(() => {
+                let minutes = Math.floor(timeLeft / 60);
+                let seconds = timeLeft % 60;
+                document.getElementById('timer').textContent = 
+                    minutes + ':' + seconds.toString().padStart(2, '0');
+                timeLeft--;
+                
+                if (timeLeft < 0) {
+                    clearInterval(timer);
+                    closeMeditation();
+                    showStatus('Session terminée ✨');
+                }
+            }, 1000);
+        }
+
+        function closeMeditation() {
+            document.getElementById('meditationView').classList.remove('show');
+            if (timer) clearInterval(timer);
+            stopAudio();
+        }
+
+        // Audio
+        function initAudio() {
+            if (!audioContext) {
+                audioContext = new (window.AudioContext || window.webkitAudioContext)();
+            }
+        }
+
+        function playFrequency(frequency) {
+            stopAudio();
+            initAudio();
+            
+            oscillator = audioContext.createOscillator();
+            const gainNode = audioContext.createGain();
+            
+            oscillator.connect(gainNode);
+            gainNode.connect(audioContext.destination);
+            
+            oscillator.frequency.setValueAtTime(frequency, audioContext.currentTime);
+            oscillator.type = 'sine';
+            gainNode.gain.setValueAtTime(0.1, audioContext.currentTime);
+            
+            oscillator.start();
+            
+            // Animation
+            document.querySelectorAll('.frequency-card').forEach(card => {
+                card.classList.remove('playing');
+                if (card.innerHTML.includes(frequency + ' Hz')) {
+                    card.classList.add('playing');
+                }
+            });
+            
+            showStatus(`🎵 Fréquence ${frequency} Hz en cours...`);
+            
+            setTimeout(() => stopAudio(), 10000);
+        }
+
+        function toggleAudio() {
+            if (currentFrequency && oscillator) {
+                stopAudio();
+            } else if (currentFrequency) {
+                playFrequency(currentFrequency);
+            }
+        }
+
+        function stopAudio() {
+            if (oscillator) {
+                try { oscillator.stop(); } catch(e) {}
+                oscillator = null;
+            }
+            document.querySelectorAll('.frequency-card').forEach(card => {
+                card.classList.remove('playing');
+            });
+        }
+
+        // Téléchargements
+        function downloadGuide() {
+            showStatus('🎧 Téléchargement Audio-Guide...');
+            const content = `# AUDIO-GUIDE MÉDITATION - MANIFESTATION LAB\n\nSession de Méditation Guidée avec Fréquence 432 Hz\n\n## SCRIPT (10 minutes)\n\n[0:00-1:00] INTRODUCTION\n"Bienvenue dans cette session de méditation guidée..."\n\n[1:00-3:00] RESPIRATION CONSCIENTE\n"Commençons par porter attention à votre respiration..."\n\n[3:00-6:00] VISUALISATION AVEC SYMBOLES\n"Visualisez maintenant la Fleur de Vie..."\n\n[6:00-8:00] ANCRAGE ET INTENTION\n"Formulez maintenant votre intention claire..."\n\n[8:00-10:00] RETOUR EN DOUCEUR\n"Nous allons maintenant revenir en douceur..."\n\n© Manifestation Lab`;
+            downloadFile('Audio_Guide_Meditation_432Hz.txt', content);
+            setTimeout(() => showStatus('✅ Audio-Guide téléchargé !'), 1000);
+        }
+
+        function downloadPoster() {
+            showStatus('🖼️ Téléchargement Poster...');
+            const content = `# POSTER SYMBOLES SACRÉS - MANIFESTATION LAB\n\nFormat A4 - 8 Symboles avec Explications\n\n🌸 FLEUR DE VIE (528 Hz) - Géométrie sacrée parfaite\n🔺 SRI YANTRA (432 Hz) - Symbole hindou de manifestation\n👁 ŒIL D'HORUS (741 Hz) - Protection et clairvoyance\n⭐ MERKABA (963 Hz) - Véhicule de lumière\n🕉️ OM SACRÉ (396 Hz) - Vibration primordiale\n🔯 SCEAU DE SALOMON (852 Hz) - Équilibre des énergies\n🌀 SPIRALE DORÉE (528 Hz) - Croissance harmonieuse\n🔥 TRISKEL CELTIQUE (741 Hz) - Transformation sacrée\n\n© Manifestation Lab`;
+            downloadFile('Poster_Symboles_Sacres_A4.pdf', content);
+            setTimeout(() => showStatus('✅ Poster PDF téléchargé !'), 1000);
+        }
+
+        function downloadJournal() {
+            showStatus('📖 Téléchargement Journal...');
+            const content = `# JOURNAL DE MANIFESTATION - 30 PAGES\n\nGuide Pratique pour Transformer Votre Réalité\n\n## TABLE DES MATIÈRES\nSEMAINE 1: CLARIFICATION DES INTENTIONS\nSEMAINE 2: VISUALISATION CRÉATRICE\nSEMAINE 3: ALIGNEMENT VIBRATOIRE\nSEMAINE 4: ANCRAGE ET GRATITUDE\n\n## EXERCICES QUOTIDIENS\n- Gratitude matinale\n- Visualisation créatrice\n- Méditation avec symboles\n- Affirmations puissantes\n\n## TECHNIQUES AVANCÉES\n- Méthode 369 (Tesla)\n- Technique du verre d'eau\n- Ancrage physique\n\n© Manifestation Lab`;
+            downloadFile('Journal_Manifestation_30_Pages.pdf', content);
+            setTimeout(() => showStatus('✅ Journal téléchargé !'), 1000);
+        }
+
+        function downloadFile(filename, content) {
+            const blob = new Blob([content], { type: 'text/plain' });
+            const url = URL.createObjectURL(blob);
+            const link = document.createElement('a');
+            link.href = url;
+            link.download = filename;
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+            URL.revokeObjectURL(url);
+        }
+
+        function showStatus(message) {
+            const status = document.getElementById('status');
+            status.textContent = message;
+            status.style.display = 'block';
+            setTimeout(() => status.style.display = 'none', 3000);
+        }
+
+        // Navigation fluide
+        document.querySelectorAll('a[href^="#"]').forEach(a => {
+            a.addEventListener('click', (e) => {
+                e.preventDefault();
+                const target = document.querySelector(a.getAttribute('href'));
+                if (target) target.scrollIntoView({behavior: 'smooth'});
+            });
+        });
+
+        // Fermeture avec Escape
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') {
+                closeOwnerModal();
+                closeMeditation();
+                stopAudio();
+            }
+        });
+    </script>
+</body>
+</html>
